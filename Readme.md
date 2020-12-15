@@ -1,0 +1,1 @@
+https://github.com/ChilliCream/graphql-workshop/blob/master/docs/4-schema-design.md
